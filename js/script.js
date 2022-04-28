@@ -189,7 +189,7 @@ function Countdown(){
         return
       }
 
-      seconds = 60
+      seconds = 10
       minutes = minutes -1
 
 
@@ -312,21 +312,28 @@ volumeFire.addEventListener('click', function () {
 
 function ClickNature() {
   
+  volumeNature.value =  0.5
   fillModifyNature.classList.toggle('selected') 
   bgModifyNature.classList.toggle('selected')  
 }  
 
  function ClickRain(){
+
+  volumeRain.value =  0.5
     fillModifyRain.classList.toggle('selected') 
     bgModifyRain.classList.toggle('selected') 
 }
 
 function ClickCoffee(){
+
+  volumeCoffee.value =  0.5
       fillModifyCoffee.classList.toggle('selected')  
       bgModifyCoffee.classList.toggle('selected')
 }
 
 function ClickFire(){
+  
+  volumeFire.value = 0.5
   fillModifyFire.classList.toggle('selected') 
   bgModifyFire.classList.toggle('selected')  
 }
