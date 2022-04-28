@@ -189,7 +189,7 @@ function Countdown(){
         return
       }
 
-      seconds = 10
+      seconds = 60
       minutes = minutes -1
 
 
