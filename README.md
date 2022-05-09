@@ -1,17 +1,16 @@
-# HZC-Skate-Community
+# FOCUS TIMER 
 
-Página web criada em HTML, CSS e um poquinho de JS a partir de layout no figma.
-Projeto parte da formação HTML e CCS da Alura
+Timer em HTML e CSS com programação em JavaScript
 
-Deploy:https://paru369.github.io/HZC-Skate-Community/
+Deploy: https://paru369.github.io/focustimer2/
 
-<img src="./assets/img/gif.gif"> 
+
 
 
 
 ## 🚀 Em excucução 
 
-Contém as páginas iniciais
+https://paru369.github.io/focustimer2/
 
 ### 📋 Pré-requisitos
 
@@ -23,7 +22,7 @@ Não carece de instalação
 
 ## 📦 Desenvolvimento
 
-É uma página HTML estilizada em CSS, aplicável em qualquer sistema WEB
+É uma página HTML estilizada em CSS - lógica de programação em JavaScript
 
 ## 🛠️ Construído com
 
@@ -32,7 +31,7 @@ Não carece de instalação
 
 ## 📌 Versão
 
-em construção
+Única
 
 ## ✒️ Autores
 
@@ -45,7 +44,7 @@ em construção
 
 ## 🎁 Agradecimentos
 
-* Alura e instrutor Matheus Alberto
+ * **Rocketseat**
 
 
 ---
